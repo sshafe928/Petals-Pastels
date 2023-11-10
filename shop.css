@@ -10,10 +10,18 @@ section{
     font-family: 'Arial', sans-serif;
     text-align: center;
     line-height: 1.6;
-    margin-left: 95px;
-    margin-right: 95px;
-    padding-right: 55px;
-    padding-left: 55px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-right: 85px;
+    padding-left: 85px;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+img{
+    text-align: center;
+}
+section p {
+    margin-bottom: 50px; 
 }
 nav {
     
