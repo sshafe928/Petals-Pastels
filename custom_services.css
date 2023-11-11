@@ -29,18 +29,18 @@ nav ul.navbar li {
 }
 
 nav ul.navbar li a {
-    background-color:#c5d0ff; /* Button background color */
-    color: rgb(253, 253, 253); /* Text color of the links */
+    background-color:#c5d0ff; 
+    color: rgb(253, 253, 253); 
     text-align: left;
     display: block;
     padding: 8px;
     text-decoration: none;
-    margin-right: 20px; /* Space between buttons */
-    border-radius: 5px; /* Rounded corners for buttons */
+    margin-right: 20px;
+    border-radius: 5px; 
 }
 
 nav ul.navbar li a:hover {
-    background-color: #c5d0ff; /* Background color of the links on hover */
+    background-color: #c5d0ff;
     transform: scale(1.3);
 }
 
